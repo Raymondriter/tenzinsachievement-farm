@@ -131,3 +131,4 @@ Farming run log — one entry per merged pull request.
 - Pair Extraordinaire entry 03: co-authored with tenzinshare.
 - Pair Extraordinaire entry 04: co-authored with tenzinshare.
 - Pair Extraordinaire entry 05: co-authored with tenzinshare.
+- Pair Extraordinaire entry 06: co-authored with tenzinshare.
