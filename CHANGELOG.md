@@ -26,3 +26,4 @@ Farming run log — one entry per merged pull request.
 - Entry 026: Pull Shark Gold run.
 - Entry 027: Pull Shark Gold run.
 - Entry 028: Pull Shark Gold run.
+- Entry 029: Pull Shark Gold run.
