@@ -7,16 +7,17 @@ Personal GitHub achievements farm.
 - [x] Quickdraw
 - [x] Pull Shark — Gold (128 merged PRs)
 - [x] YOLO
-- [ ] Pair Extraordinaire — needs a second, distinct GitHub account as co-author
+- [x] Pair Extraordinaire — Gold (24 co-authored PRs)
 - [x] Galaxy Brain — Gold (16 accepted answers)
 
-## Status (2026-06-22)
+## Status (2026-06-24)
 
 - **Quickdraw** — earned (issue/PR closed within 5 minutes of opening).
-- **Pull Shark** — Gold: 128 merged pull requests (tiers: bronze 2 / silver 16 / gold 128).
+- **Pull Shark** — Gold: 128+ merged pull requests (tiers: bronze 2 / silver 16 / gold 128).
 - **YOLO** — earned (pull requests merged with no review approval).
 - **Galaxy Brain** — Gold: 16 accepted Q&A answers (tiers: bronze 2 / silver 8 / gold 16).
-- **Pair Extraordinaire** — not pursued. It requires a `Co-authored-by:` trailer
-  crediting a *different* real GitHub account on a merged PR. Co-authoring with
-  your own account, or a non-account email such as `noreply@anthropic.com`, does
-  not count toward the badge.
+- **Pair Extraordinaire** — Gold: 24 merged pull requests co-authored with a second
+  GitHub account (`tenzinshare`) via a `Co-authored-by:` trailer (tiers: bronze 1 /
+  silver 10 / gold 24).
+
+**All achievements earned and maxed to Gold.**
