@@ -14,3 +14,4 @@ Farming run log — one entry per merged pull request.
 - Entry 10: Pull Shark farm pull request.
 - Entry 11: Pull Shark farm pull request.
 - Entry 12: Pull Shark farm pull request.
+- Entry 017: Pull Shark Gold run.
