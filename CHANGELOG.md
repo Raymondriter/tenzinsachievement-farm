@@ -127,3 +127,4 @@ Farming run log — one entry per merged pull request.
 - Entry 127: Pull Shark Gold run.
 - Entry 128: Pull Shark Gold run.
 - Pair Extraordinaire: co-authored merged PR with tenzinshare.
+- Pair Extraordinaire entry 02: co-authored with tenzinshare.
